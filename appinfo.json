@@ -1,0 +1,44 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "TACK COMPANY",
+    "longName": "Red Simple Watch Face",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/2828.png",
+                "menuIcon": true,
+                "name": "IMAGE_2828",
+                "type": "png"
+            },
+            {
+                "file": "images/bluetooth2.png",
+                "name": "IMAGE_BLUETOOTH",
+                "type": "png"
+            },
+            {
+                "file": "images/sc.png",
+                "name": "IMAGE_SCREEN_SHOT",
+                "type": "png"
+            },
+            {
+                "file": "images/144-168.png",
+                "name": "144_168",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Red Simple",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "067151e4-606d-4fe2-928d-222c40e6aaff",
+    "versionLabel": "1.2",
+    "watchapp": {
+        "watchface": true
+    }
+}
